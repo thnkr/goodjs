@@ -9,6 +9,8 @@ Learn good code for a good cause.
 - www.howtonode.org [learn]
 - www.runnable.com [tool]
 - www.parse.io [tool]
+- www.blockchain.info [tool]
+- www.learnxinyminutes.com [learn]
 
 ## Schedule
 #### Friday: May 9th - Introduction
