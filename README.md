@@ -2,8 +2,13 @@ GoodJS
 ======
 Learn good code for a good cause.
 
-### Welcome
-A fast paced Javascript course covering early stage development with advanced features.
+### Resources
+- www.nitrous.io [tool]
+- www.stackoverflow.com [learn]
+- www.npmjs.org [tool]
+- www.howtonode.org [learn]
+- www.runnable.com [tool]
+- www.parse.io [tool]
 
 ## Schedule
 #### Friday: May 9th - Introduction
