@@ -14,7 +14,7 @@ Learn good code for a good cause. May 9th to June 4th 2014.
 
 ### Class Tools
 - IRC Chat: https://itunes.apple.com/us/app/xchat-azure/id447521961?mt=12
-- Editor: www.sublime.com
+- Editor: www.sublimetext.com
 - Terminal: www.iterm2.com
 
 ### Rules
