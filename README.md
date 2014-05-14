@@ -28,39 +28,40 @@ Learn good code for a good cause. May 9th to June 4th 2014.
 
 ### Projects
 **Traffic Miracle**
-[service] -> Geo-location and public data resources: www.freebase.com
-[service] -> OpenMaps, Mapquest API
-[tool] -> coordinate, address
-[tool] -> Natural Language Processing: npm install natural
-[deploy] -> www.nitrous.io
+- [service] -> Geo-location and public data resources: www.freebase.com
+- [service] -> OpenMaps, Mapquest API
+- [tool] -> coordinate, address
+- [tool] -> Natural Language Processing: npm install natural
+- [deploy] -> www.nitrous.io
 
 **Miracle Face**
-[service] -> Pattern recognition in video and images: npm install opencv
-[service] -> Pattern recognition: http://www.airware.com/
-[service] -> mit media lab "Affect" http://affect.media.mit.edu/areas.php?id=recognizing
-[deploy] -> localhost/www.nitrous.io
+- [service] -> Pattern recognition in video and images: npm install opencv
+- [service] -> Pattern recognition: http://www.airware.com/
+- [service] -> mit media lab "Affect" http://affect.media.mit.edu/areas.php?id=recognizing
+- [deploy] -> localhost/www.nitrous.io
 
 **Beer Miracle**
-[tool] -> Front-End MVC: Ember.js
-[tool] -> Visualization: three.js/D3.js/Google Charts
-[deploy] -> www.nitrous.io
+- [tool] -> Front-End MVC: Ember.js
+- [tool] -> Visualization: three.js/D3.js/Google Charts
+- [tool] -> Server: npm install express
+- [deploy] -> www.nitrous.io
 
 **Finance/BasketBall Miracle**
-[tool] -> Natural Language Processing: npm install natural
-[service] -> Fitbit API documentation: http://dev.fitbit.com/
-[deploy] -> localhost
+- [tool] -> Natural Language Processing: npm install natural
+- [service] -> Fitbit API documentation: http://dev.fitbit.com/
+- [deploy] -> localhost
 
 **Education Miracle**
-[service] -> Knollup.com/Noodle.org/MIT OpenCourseware
-[service] -> Moodle CMS/Lore
-[service] -> Teach for America public API
-[deploy] -> www.nitrous.io
+- [service] -> Knollup.com/Noodle.org/MIT OpenCourseware
+- [service] -> Moodle CMS/Lore
+- [service] -> Teach for America public API
+- [deploy] -> www.nitrous.io
 
 **Good Mashape Miracle**
-[service] -> Mashape Developer API
-[tool] -> Elastic Search/Mongoose Full-Text Search
-[tool] -> Server: npm install express
-[deploy] -> localhost
+- [service] -> Mashape Developer API
+- [tool] -> Elastic Search/Mongoose Full-Text Search
+- [tool] -> Server: npm install express
+- [deploy] -> localhost
 
 
 ### Resources
